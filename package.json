@@ -1,0 +1,22 @@
+{
+  "name": "test-test-ci",
+  "version": "1.0.0",
+  "description": "Test for testing and Continous iNTEGRATION",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexVanHell/CITestTest.git"
+  },
+  "author": "Yo mero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexVanHell/CITestTest/issues"
+  },
+  "homepage": "https://github.com/AlexVanHell/CITestTest#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
