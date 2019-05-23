@@ -10,6 +10,8 @@ test('adds 2 + 3 equals to 5', function() {
 	expect(sum(2, 3)).toBe(5);
 })
 
+// Comment
+
 function sumTest() {
 	expect(sum(1, 2)).toBe(3);
 }
